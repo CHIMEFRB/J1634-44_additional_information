@@ -1,0 +1,35 @@
+# Created: 2025-04-07T14:05:08.958392
+# PINT_version: 1.1
+# User: fengqiu.dong (fengqiu)
+# Host: fengqiu-ThinkPad-T480
+# OS: Linux-6.8.0-57-generic-x86_64-with-glibc2.35
+# Python: 3.12.2 | packaged by conda-forge | (main, Feb 16 2024, 20:50:58) [GCC 12.3.0]
+# Format: pint
+PSRJ                             J1634+44
+EPHEM                               DE421
+CLOCK                        TT(BIPM2023)
+UNITS                                 TDB
+START              58893.6262582358303819
+FINISH             60522.1582076965502199
+DILATEFREQ                              N
+DMDATA                                  N
+NTOA                                  119
+CHI2                   3353.9092041665003
+CHI2R                  28.913010380745693
+TRES                 4678447.661733938675
+RAJ                     16:34:29.90000000 0 0.00000000000000000000
+DECJ                    44:50:10.80000000 0 0.00000000000000000000
+PMRA                                  0.0
+PMDEC                                 0.0
+PX                                    0.0
+F0               0.0011887130811254479022 1 7.962704070179855717e-12
+F1              1.2756203496545061021e-17 1 1.5552064519640794431e-19
+F2                                    0.0
+PEPOCH             60366.0000000000000000
+TZRMJD             60377.5588764775675348
+TZRSITE                               ssb
+TZRFRQ                                inf
+JUMP            -tim_jump 1        0.2955317231332465 0 0.34764504681604264
+PLANET_SHAPIRO                          N
+DM                                   25.5 0 0.0
+DM1                                   0.0
